@@ -1,5 +1,5 @@
 # Raylib-Exporter
 
-- ./export <filename> <destination>
+- ./export \<filename\> \<destination\>
 
 - :thumbsup:
